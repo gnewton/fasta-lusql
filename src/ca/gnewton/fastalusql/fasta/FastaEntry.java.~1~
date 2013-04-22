@@ -1,0 +1,8 @@
+package ca.gnewton.fastalusql.fasta;
+
+public class FastEntry
+{
+	public String globalFileHeader;
+	public String description;
+	public String sequence;
+}

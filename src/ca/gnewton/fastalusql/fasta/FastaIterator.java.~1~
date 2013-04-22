@@ -1,0 +1,6 @@
+
+package ca.gnewton.fastalusql.fasta;
+
+import java.util.Iterator;
+
+
