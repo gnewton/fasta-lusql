@@ -1,6 +1,13 @@
 *.class
+build
+data
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# emacs
+*~
+TAGS
+tags
